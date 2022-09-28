@@ -3,7 +3,7 @@
 <hr>
 
 <pre>
-<img src="C:\baekjoon\_01_10819\resources\picture.png">
+<img src="_01_10819\resources\picture.png">
 </pre>
 
 <hr>
